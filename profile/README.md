@@ -1,8 +1,6 @@
-## Hi there 👋
+# 👋 Welcome to Cohort-1's Github org
 
-# Welcome to Cohort-1's Github org
-
-## Here you will find links to:
+### Here you will find links to:
 
 ## Online resources
 - [Wiki](https://github.com/Take2-Cohort-1/.github/wiki): Here you can find the pairing schedule for the week,
