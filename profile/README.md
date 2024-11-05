@@ -3,7 +3,7 @@
 # Welcome to Cohort-1's Github org
 
 ## Here you will find links to:
-- [Pairing Schedule]([https://richape.github.io/index.html](https://github.com/Take2-Cohort-1/.github/wiki)):
+- [Pairing Schedule](https://github.com/Take2-Cohort-1/.github/wiki):
 
 
 
