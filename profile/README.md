@@ -6,7 +6,8 @@
 - [Wiki](https://github.com/Take2-Cohort-1/.github/wiki): Here you can find the pairing schedule for the week,
 - [MDN Web Docs](https://developer.mozilla.org/en-US/): Resources for Developers,
 - [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/): If you want to build on your developing skills,
-- [codecademy](https://www.codecademy.com/catalog): A free online resource, 
+- [Codecademy](https://www.codecademy.com/catalog): A free online resource,
+- [Frontend Mentor](https://www.frontendmentor.io/): Challenges to help improve your coding skills,
 
 
 
