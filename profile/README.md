@@ -15,6 +15,12 @@
 
 ## Video tutorials
 <details>
+  <summary>HTML</summary>
+
+  - [html for beginners](https://www.youtube.com/watch?v=FQdaUv95mR8)
+  - 
+</details>
+<details>
   <summary>JavaScript</summary>
   
   - [JavaScript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c)
