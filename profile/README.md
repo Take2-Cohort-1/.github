@@ -21,8 +21,12 @@
   - [All the JS you need to know for React](https://www.youtube.com/watch?v=m55PTVUrlnA)
 
 </details>
+<details>
+  <summary>React</summary>
 
-[Intro to React in 30 minutes](https://www.youtube.com/watch?v=hQAHSlTtcmY&t=62s&ab_channel=WebDevSimplified) Easy to follow intro to react video by Web Dev Simplified,
+- [Intro to React in 30 minutes](https://www.youtube.com/watch?v=hQAHSlTtcmY&t)
+  
+</details>
 
 If you have other links that you feel the rest of the team will benefit from, don't hesitate to message them to Josh or Rich to add to the lists ❗️❗️❗️
 
