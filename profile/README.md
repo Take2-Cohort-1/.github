@@ -15,6 +15,7 @@
 
 ## Video tutorials
 - [JS video tutorial](https://www.youtube.com/watch?v=hdI2bqOjy3c&ab_channel=TraversyMedia): JavaScript Crash Course For Beginners,
+- [Introduction to React in 30 minutes](https://www.youtube.com/watch?v=hQAHSlTtcmY&t=62s&ab_channel=WebDevSimplified): Easy to follow intro to react video by Web Dev Simplified,
 
 If you have other links that you feel the rest of the team will benefit from, don't hesitate to message them to Josh or Rich to add to the lists ❗️❗️❗️
 
