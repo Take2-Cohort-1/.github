@@ -18,7 +18,7 @@
   <summary>HTML</summary>
 
   - [html for beginners](https://www.youtube.com/watch?v=FQdaUv95mR8)
-  - 
+
 </details>
 <details>
   <summary>JavaScript</summary>
