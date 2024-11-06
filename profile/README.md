@@ -21,6 +21,12 @@
 
 </details>
 <details>
+  <summary>CSS</summary>
+
+  - [Learn CSS in 20 minutes](https://www.youtube.com/watch?v=1PnVor36_40)
+
+</details>
+<details>
   <summary>JavaScript</summary>
   
   - [JavaScript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c)
