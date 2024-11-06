@@ -14,9 +14,13 @@
 - [Codewars](https://www.codewars.com/collections/javascript-basics-2): If you want to challenge your JS skills,
 
 ## Video tutorials
-- [JS video tutorial](https://www.youtube.com/watch?v=hdI2bqOjy3c&ab_channel=TraversyMedia): JavaScript Crash Course For Beginners,
-- [Intro to React in 30 minutes](https://www.youtube.com/watch?v=hQAHSlTtcmY&t=62s&ab_channel=WebDevSimplified): Easy to follow intro to react video by Web Dev Simplified,
-- [All the JS you need to know for React](https://www.youtube.com/watch?v=m55PTVUrlnA&t=218s&ab_channel=PedroTech): JS for React,
+<details>
+  <summary>JavaScript</summary>
+* [JS video tutorial](https://www.youtube.com/watch?v=hdI2bqOjy3c&ab_channel=TraversyMedia): JavaScript Crash Course For Beginners,
+* [All the JS you need to know for React](https://www.youtube.com/watch?v=m55PTVUrlnA&t=218s&ab_channel=PedroTech): JS for React,
+</details>
+
+[Intro to React in 30 minutes](https://www.youtube.com/watch?v=hQAHSlTtcmY&t=62s&ab_channel=WebDevSimplified): Easy to follow intro to react video by Web Dev Simplified,
 
 If you have other links that you feel the rest of the team will benefit from, don't hesitate to message them to Josh or Rich to add to the lists ❗️❗️❗️
 
