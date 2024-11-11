@@ -31,6 +31,7 @@
   
   - [JavaScript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c)
   - [All the JS you need to know for React](https://www.youtube.com/watch?v=m55PTVUrlnA)
+  - [Learning JS with This One Project](https://www.youtube.com/watch?v=E3XxeE7NF30&ab)
 
 </details>
 <details>
