@@ -38,6 +38,7 @@
   <summary>React</summary>
 
 - [Intro to React in 30 minutes](https://www.youtube.com/watch?v=hQAHSlTtcmY&t)
+- [Build a currency converter](https://www.youtube.com/watch?v=XN5elYWiSuw&ab)
   
 </details>
 
